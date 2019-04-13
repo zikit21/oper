@@ -20,9 +20,9 @@
 
 <addon id="repository.Chameleon" name="[COLOR red]Chame[/COLOR][COLOR blue]leon[/COLOR] [COLOR yellow]TV[/COLOR] [COLOR green] Repository [/COLOR] " version="5.0.1" provider-name="Chameleon">
         <extension point="xbmc.addon.repository" name="CPTV">
-                <info compressed="false">http://cha1m.com/oper1/addons.xml</info>
-                <checksum>http://cha1m.com/oper1/addons.xml.md5</checksum>
-                <datadir zip="true">http://cha1m.com/oper1/zips</datadir>
+                <info compressed="false">https://medankats.github.io/opers/addons.xml</info>
+                <checksum>https://medankats.github.io/opers/addons.xml.md5</checksum>
+                <datadir zip="true">https://medankats.github.io/opers/</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
                 <summary></summary>
